@@ -1,7 +1,7 @@
 # FloatWindowDemo
 快捷联系人悬浮窗
 
-[Android悬浮窗原理解析](http://blog.csdn.net/Awenyini/article/details/78265284)
+[Android悬浮窗原理解析](http://blog.csdn.net/Awenyini/article/details/78265284),Welcome to Star and Fork.
 
 # Demo展示
 ![](https://github.com/awenzeng/FloatWindowDemo/blob/master/resource/demo.gif)
